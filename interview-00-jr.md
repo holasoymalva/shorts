@@ -1,1 +1,1 @@
-# Ejercicio de entrevista de trabajo para JRs
+# Ejercicio Laboral para JRs
