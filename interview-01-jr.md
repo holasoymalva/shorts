@@ -11,7 +11,7 @@ console.log(primerNoRepetido([7, 7, 3, 3, 5, 5])); // Output: null
 
 ### Enfoque para Resolver el Problema
 
-Para resolver este problema, necesitamos encontrar el primer número único en el array. Podemos hacerlo de varias maneras, pero veremos dos enfoques eficientes.
+Para resolver este problema, necesitamos encontrar el primer número único en el array. Podemos hacerlo de varias maneras, pero vamos a enfocarnos en una bastante eficiente.
 
 ```javascript
 function primerNoRepetido(arr) {
