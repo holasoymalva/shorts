@@ -1,0 +1,13 @@
+# Que paso con selina?
+
+Selina, es una cadena de hoteles y espacios de coworking dirigida principalmente a nómadas digitales y viajeros jóvenes, ha enfrentado una serie de desafíos financieros y operativos que han llevado a su insolvencia. A continuación, se detallan las principales razones detrás de su fracaso.
+## Crisis de Liquidez
+Selina ha estado lidiando con una grave crisis de liquidez, que se intensificó después de que la empresa no pudiera cumplir con pagos de intereses a sus acreedores. En julio de 2024, la compañía se declaró insolvente y comenzó a buscar compradores para sus activos, lo que marcó un punto crítico en su historia157. La falta de financiamiento adecuado tras su salida a bolsa en 2021, donde se valoró en aproximadamente 1.200 millones de dólares, resultó en una incapacidad para sostener sus operaciones38.
+## Modelo de Negocio No Rentable
+El modelo de negocio de Selina, que combinaba hospedaje asequible con espacios de coworking y experiencias comunitarias, resultó ser costoso y poco rentable. Aunque atrajo a un nicho específico, los altos costos operativos y la competencia feroz en el sector hotelero dificultaron su capacidad para generar ingresos suficientes36. La dependencia excesiva de financiamiento externo sin un plan claro para alcanzar la rentabilidad contribuyó a su situación insostenible3.
+## Expansión Acelerada
+Selina optó por una estrategia de expansión agresiva, abriendo múltiples ubicaciones en un corto período. Este crecimiento rápido superó su capacidad para gestionar eficientemente las propiedades, lo que llevó a problemas en la calidad del servicio y la satisfacción del cliente3. Una expansión más gradual podría haber permitido a la empresa optimizar sus operaciones antes de abrir nuevas ubicaciones.
+## Impacto de la Pandemia
+La pandemia del COVID-19 tuvo un impacto significativo en el sector hotelero, y Selina no fue la excepción. Aunque intentó adaptarse ofreciendo paquetes para estancias prolongadas dirigidos a nómadas digitales, la caída general en la demanda turística exacerbó su vulnerabilidad financiera37. La falta de diversificación en su modelo operativo hizo que dependiera demasiado del turismo internacional.
+## Conclusión
+En resumen, Selina fracasó debido a una combinación de crisis de liquidez, un modelo de negocio no rentable, una expansión acelerada sin la debida planificación y el impacto negativo de la pandemia. A pesar de su potencial inicial como innovadora en el sector hotelero, estos factores llevaron a su caída, lo que resalta la importancia de una gestión financiera sólida y un enfoque equilibrado en el crecimiento empresarial.
